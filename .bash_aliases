@@ -1,0 +1,5 @@
+alias gb='git branch'
+alias gits='git status'
+alias gco='git checkout'
+alias gp='git pull'
+alias gpuo='git push'
