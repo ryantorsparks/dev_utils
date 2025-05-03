@@ -1,3 +1,4 @@
+alias gg='git grep'
 alias gb='git branch'
 alias gits='git status'
 alias gco='git checkout'
